@@ -1,7 +1,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { CoursesController } from './courses.controller';
 
-describe('CoursesController', () => {
+describe('CourseController', () => {
   let controller: CoursesController;
 
   beforeEach(async () => {
